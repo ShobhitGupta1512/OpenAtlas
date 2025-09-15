@@ -18,5 +18,5 @@ Easily search, sort, and filter through countries to find the details you need.
 
 ## 📂 Project Structure
 
-<img width="1344" height="636" alt="Screenshot 2025-09-15 224131" src="https://github.com/user-attachments/assets/16953497-610b-4895-ae95-26ac7ba5dc68" />
+
 
